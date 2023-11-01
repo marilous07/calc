@@ -16,11 +16,5 @@ This is a basic calculator created for decorative and educational purposes. You 
 - Division (/)
 - Clear (C)
 
-## Contributors
 
-- [Your Name]
-
-## License
-
-This program is distributed under the [Insert the license you're using, such as MIT, Apache 2.0, etc.] license. Please refer to the LICENSE file for more information.
 
