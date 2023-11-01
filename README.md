@@ -1,27 +1,26 @@
-Python Calculator
+# Simple Calculator
 
-This is a simple command-line calculator implemented in Python. The calculator supports basic arithmetic operations like addition, subtraction, multiplication, and division.
-Features
+This is a basic calculator created for decorative and educational purposes. You can use it as a foundation to build a more feature-rich calculator if desired.
 
-    User-friendly command-line interface
-    Supports addition, subtraction, multiplication, and division
-    Handles invalid input gracefully
+## Usage Instructions
 
-Usage
+1. Open the `index.html` file in a web browser.
+2. The simple calculator will appear on your screen.
+3. Use the calculator's buttons to perform calculations.
 
-    Clone this repository to your local machine.
-    Navigate to the directory containing calculator.py using your command-line interface.
-    Run the command python calculator.py to start the calculator program.
-    Follow the prompts in the command line to choose an operation and input your numbers.
+## Functions
 
-Requirements
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Clear (C)
 
-This project requires Python 3.6 or above. It does not require any external Python libraries.
-Contributing
+## Contributors
 
-If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
-License
+- [Your Name]
 
-This project is licensed under the terms of the MIT license.
+## License
 
-The actual name of your Python script should replace calculator.py in the README. Also, adjust the Python version according to your specific requirements. This README is just a template, and you can add or remove sections as you see fit. For example, you might want to add a section describing any future improvements or features you plan to implement.
+This program is distributed under the [Insert the license you're using, such as MIT, Apache 2.0, etc.] license. Please refer to the LICENSE file for more information.
+
